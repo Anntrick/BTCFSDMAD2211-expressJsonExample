@@ -1,0 +1,20 @@
+[
+	{
+		"id": 3,
+		"name": "Estudiar el map",
+		"description": "Mirar la sintaxis",
+		"date": "2022-12-12T11:56:25.871Z"
+	},
+	{
+		"id": 5,
+		"name": "Estudiar el JSON.stringify",
+		"description": "Mirar la sintaxis",
+		"date": "2022-12-12T12:00:20.294Z"
+	},
+	{
+		"id": 6,
+		"name": "Estudiar el JSON.parse",
+		"description": "Mirar la sintaxis",
+		"date": "2022-12-12T12:00:46.341Z"
+	}
+]
